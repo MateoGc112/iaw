@@ -28,7 +28,7 @@ III.3
 
 <!-- Imágen -->
 
-![ej 2](imgej1/ejercicio2.png)
+![ej 2](/iaw/actividad1_1/img/ejercicio2.png)
 
 <!-- Tabla -->
 
