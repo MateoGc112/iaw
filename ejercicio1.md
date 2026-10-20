@@ -3,7 +3,7 @@
 
 **Apartado 14** /  
 1. Procedemos con el Git Init  
-![Git init](actividad1_1/img/Gitinitej1.png)  
+![Git init](actividad1_1/img/Gitinitej1.png)
 
 1. Creación de los ficheros en prueba2
 ![Git init](actividad1_1/img/parte2.png)  
